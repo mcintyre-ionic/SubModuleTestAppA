@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "SubModuleTestAppA",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
